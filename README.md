@@ -1,1 +1,1 @@
-
+Participated in a program led by Lyft’s engineering team, to redesign Lyft’s rental car servicing codebase to be easily extensible. Developed a new functionality component using test-driven development.
